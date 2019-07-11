@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/b162322067740725ad02/maintainability)](https://codeclimate.com/github/thepracticaldev/DEV-ios/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b162322067740725ad02/test_coverage)](https://codeclimate.com/github/thepracticaldev/DEV-ios/test_coverage)
 
-# DEV iOS 💖
+# DEV iOS 
 
 This is the repo for the [dev.to](https://dev.to) iOS app.
 
